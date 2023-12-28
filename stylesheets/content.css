@@ -1,0 +1,221 @@
+body {
+  margin: 0 auto;
+  background-color: #d9d9d9;
+}
+p {
+  font-family: 'GolosUIWebRegular';
+  font-size: 1.46vw;
+  font-weight: normal;
+  font-style: normal;
+  color: black;
+}
+.p_white {
+  font-family: 'GolosUIWebRegular';
+  font-size: 1.46vw;
+  font-weight: normal;
+  font-style: normal;
+  color: #d9d9d9;
+}
+h1 {
+  font-family: 'Bebas Neue';
+  font-weight: bold;
+  font-style: normal;
+  font-size: 2.5vw;
+  color: black;
+}
+.semantic {
+  font-family: 'Bebas Neue';
+  font-weight: bold;
+  font-style: normal;
+  font-size: 4vw;
+  color: black;
+  text-align: center;
+}
+.h1_white {
+  font-family: 'Bebas Neue';
+  font-weight: bold;
+  font-style: normal;
+  font-size: 2.5vw;
+  color: #d9d9d9;
+}
+.sec_1 {
+  height: 54.69vw;
+  background-color: black;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 9vw;
+  padding: 10vw;
+}
+nav {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  width: auto;
+  font-size: 2.5vw;
+  padding: 2vw;
+}
+a {
+  font-family: 'Bebas Neue';
+  font-weight: bold;
+  font-style: normal;
+  text-decoration: none;
+  color: #bd8a96;
+}
+a:hover {
+  opacity: 0.5;
+  text-decoration: none;
+}
+a:visited {
+  color: #bd8a96;
+  text-decoration: none;
+}
+
+.logo {
+  width: 40vw;
+  height: 20vw;
+}
+.sec_2 {
+  height: 45vw;
+  background-color: #bd8a96;
+  display: flex;
+  justify-content: center;
+  padding: 10vw 10vw 3vw;
+  background: url(../images/section_2.png);
+  background-size: 100%;
+  background-repeat: no-repeat;
+  flex-direction: column;
+  align-items: center;
+}
+.obrende {
+  position: absolute;
+  top: 86vw;
+  left: 7.4vw;
+}
+.sec_3 {
+  height: 109vw;
+  display: flex;
+  justify-content: space-around;
+  padding: 0vw 10vw 10vw;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.tov {
+  width: 43vw;
+  height: 18vw;
+}
+#p_bold {
+  font-family: 'GolosUIWebBold';
+  font-weight: normal;
+  font-style: normal;
+}
+.sec_4 {
+  color: #d9d9d9;
+  height: 85vw;
+  display: flex;
+  justify-content: space-around;
+  padding: 10vw;
+  flex-direction: column;
+  align-items: flex-start;
+  background-color: black;
+}
+.logo_var {
+  width: 40vw;
+  height: 20vw;
+}
+.sec_5 {
+  height: 122vw;
+  display: flex;
+  justify-content: space-around;
+  padding: 10vw;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.color {
+  width: 56vw;
+  height: 100vw;
+  background: url(../images/color.png);
+  background-size: 100%;
+  background-repeat: no-repeat;
+}
+.sec_6 {
+  color: #d9d9d9;
+  height: 59vw;
+  display: flex;
+  justify-content: space-around;
+  padding: 10vw;
+  flex-direction: column;
+  align-items: flex-start;
+  background-color: black;
+}
+.typo {
+  width: 56vw;
+  height: 34vw;
+  background: url(../images/typo.png);
+  background-size: 100%;
+  background-repeat: no-repeat;
+}
+.sec_7 {
+  height: 63vw;
+  display: flex;
+  justify-content: space-around;
+  padding: 10vw;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.compos {
+  width: 56vw;
+  height: 48vw;
+  background: url(../images/compos.png);
+  background-size: 100%;
+  background-repeat: no-repeat;
+}
+.sec_8 {
+  color: #d9d9d9;
+  height: 62vw;
+  display: flex;
+  justify-content: space-around;
+  padding: 10vw;
+  flex-direction: column;
+  align-items: flex-start;
+  background-color: black;
+}
+.photo {
+  width: 56vw;
+  height: 48vw;
+  background: url(../images/photo.png);
+  background-size: 100%;
+  background-repeat: no-repeat;
+}
+.sec_9 {
+  height: 185vw;
+  display: flex;
+  justify-content: space-around;
+  padding: 10vw;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.graphics {
+  width: 71vw;
+  height: 166vw;
+  background: url(../images/graphics.png);
+  background-size: 100%;
+  background-repeat: no-repeat;
+}
+.container {
+  width: 59vw;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 4vw;
+}
+.container_values {
+  display: flex;
+  gap: 1.5vw;
+  flex-direction: column;
+}
+.container_wave {
+  display: flex;
+  gap: 3vw;
+  flex-direction: column;
+}
