@@ -2,7 +2,7 @@
 
 @font-face {
   font-family: 'Bebas Neue';
-  src: url('../fonts/BebasNeueRegular.woff') format('woff');
+  src: url('..fonts/BebasNeueRegular.woff') format('woff');
   font-weight: normal;
   font-style: normal;
 }
@@ -37,13 +37,13 @@
 
 @font-face {
   font-family: 'GolosUIWebRegular';
-  src: url('../fonts/Golos-UI_Regular.woff') format('woff');
+  src: url('../fonts/golos-ui_regular.woff') format('woff');
   font-weight: normal;
   font-style: normal;
 }
 @font-face {
   font-family: 'GolosUIWebBold';
-  src: url('../fonts/Golos-UI_Bold.woff') format('woff');
+  src: url('../fonts/golos-ui_bold.woff') format('woff');
   font-weight: normal;
   font-style: normal;
 }
