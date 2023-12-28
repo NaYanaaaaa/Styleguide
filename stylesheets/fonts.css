@@ -37,13 +37,13 @@
 
 @font-face {
   font-family: 'GolosUIWebRegular';
-  src: url('../fonts/golos-ui_regular.woff') format('woff');
+  src: url('../fonts/Golos-UI\ Regular.woff') format('woff');
   font-weight: normal;
   font-style: normal;
 }
 @font-face {
   font-family: 'GolosUIWebBold';
-  src: url('../fonts/golos-ui_bold.woff') format('woff');
+  src: url('../fonts/Golos-UI\ Bold.woff') format('woff');
   font-weight: normal;
   font-style: normal;
 }
