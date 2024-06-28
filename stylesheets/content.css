@@ -39,12 +39,11 @@ h1 {
   color: #d9d9d9;
 }
 .sec_1 {
-  height: 54.69vw;
+  height: 40vw;
   background-color: black;
   display: flex;
   align-items: center;
   justify-content: flex-start;
-  gap: 9vw;
   padding: 10vw;
 }
 nav {
@@ -72,8 +71,8 @@ a:visited {
 }
 
 .logo {
-  width: 40vw;
-  height: 20vw;
+  width: 55vw;
+  height: 30vw;
 }
 .sec_2 {
   height: 45vw;
@@ -111,7 +110,7 @@ a:visited {
 }
 .sec_4 {
   color: #d9d9d9;
-  height: 85vw;
+  height: 50vw;
   display: flex;
   justify-content: space-around;
   padding: 10vw;
@@ -120,8 +119,8 @@ a:visited {
   background-color: black;
 }
 .logo_var {
-  width: 40vw;
-  height: 20vw;
+  width: 60vw;
+  height: 30vw;
 }
 .sec_5 {
   height: 122vw;
